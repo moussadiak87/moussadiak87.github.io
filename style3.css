@@ -1,0 +1,66 @@
+body{
+background-image: url(/home/moussa/Documents/CV/computer.jpg);
+color: #cdb824;
+background-size: 100%;
+
+}
+.principal{
+  width: 100%;
+  height: 200px;
+}
+.titre{
+  width: 55%;
+  padding-left: 500px;
+}
+.bottomecran{
+  width: 100%;
+  height: 330px;
+}
+.ecrangauche{
+  width: 48%;
+  height: 100%;
+  float: left;
+}
+.eg1{
+  height: 60%;
+  width: 12%;
+  float: left;
+  padding-left: 43%;
+  padding-top:18%;
+}
+.eg2{
+  width: 45%;
+  height: 100%;
+  float: left;
+}
+.ecrandroite{
+  width: 43%;
+  height: 100%;
+  float: left;
+}
+.ecrandroite1{
+  width: 55%;
+  height: 100%;
+  float: left;
+}
+.haut{
+  width: 100%;
+  height: 40%;
+  padding-left: 70%;
+  padding-top: 20%;
+}
+.bas{
+  width: 100%;
+  height: 45%;
+  padding-left: 25%;
+}
+.ecrandroite2{
+  width: 45%;
+  height: 100%;
+  float: left;
+}
+.imgtel{
+  position: relative;
+  top:93%;
+  left: 19%;
+}

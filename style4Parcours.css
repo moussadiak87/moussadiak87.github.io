@@ -1,0 +1,14 @@
+body{
+  background-image: url(/home/moussa/Documents/CV/annie-spratt-294450-unsplash.jpg);
+  background-size: 100%;
+  color: #033659;
+  opacity: 50;
+
+
+}
+.ecran{
+    position: absolute;
+    bottom: 125px;
+    right: 405px;
+    font-size: 150px;
+  }
